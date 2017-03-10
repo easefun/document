@@ -4,7 +4,7 @@
         "theme": "theme-gray",
         "copyright": "Copyright 2017 polyv.net"
     },
-	"plugins": ["-highlight", "code-highlighter"],
+	"plugins": ["-highlight", "-code-highlighter", "prism"],
     "collapsible_menu":true,
     "level_number":false,
     "links": {
