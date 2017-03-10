@@ -1,15 +1,18 @@
 # Summary
 
-### Part I
+### 点播技术支持
 
-* [Writing is nice](part1/writing.md)
-* [GitBook is nice](part1/gitbook.md)
+* 点播API
+	* [删除视频的全部打点信息](deleteallframe.md)
+	* 名词解释
+	* API概述,常见问题
 
-### Part II
+### 直播技术支持
 
-* [We love feedback](part2/feedback_please.md)
-* [Better tools for authors](part2/better_tools.md)
+* 点播API
+	* [删除视频的全部打点信息](deleteallframe.md)
+	* 名词解释
+	* API概述,常见问题
 
 ----
-
 * [Last part without title](part3/title.md)
