@@ -22,7 +22,7 @@
 
 * 语法高亮
 
-```objective-c
+```javascript
 	int buttonWidth = 100;
 	int buttonsize = (int)self.bitRateButtons.count*30;
 	int initHeight =(CGRectGetHeight(self.bitRateView.bounds)-buttonsize)/2;
