@@ -1,9 +1,14 @@
 {
-  "plugins": [
-    "header"
-  ],
+    "gitbook": "2.x.x",
+    "plugins": ["header"],
+    "links": {
+        "sidebar": {
+            "Contact us / Support": "https://www.gitbook.com/contact"
+        }
+    },
   "pluginsConfig": {
     "layout": {
       "headerPath" : "layouts/header.html"
     }
   }
+}
