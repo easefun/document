@@ -1,5 +1,5 @@
 {
-    "gitbook": "2.x.x",
+    "gitbook": "2.0.1",
     "plugins": ["header"],
     "links": {
         "sidebar": {
