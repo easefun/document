@@ -38,3 +38,16 @@
 	}
 
 ```
+
+
+* 语法高亮
+
+```java
+    private ResponseEntity<?> sendResponse(boolean play, String message, String certurl, String callback) {
+        // 构建响应结果
+        ChannelRestrictResponseModel result = new ChannelRestrictResponseModel();
+        result.setPlay(play);
+        result.setMessage(message);
+        result.setCerturl(certurl);
+
+```
