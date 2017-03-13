@@ -2,7 +2,7 @@
 
 ---
 
-* 代码高亮
+* html
 
 ```html
 	<div class="container">
@@ -22,7 +22,7 @@
 
 * 语法高亮
 
-```oc
+```c
 	int buttonWidth = 100;
 	int buttonsize = (int)self.bitRateButtons.count*30;
 	int initHeight =(CGRectGetHeight(self.bitRateView.bounds)-buttonsize)/2;
