@@ -2,7 +2,7 @@
     "variables": {
         "title": "开发者中心
     },
-	"plugins": ["-highlight", "-code-highlighter", "prism", "maxiang"],
+    "plugins": ["-highlight", "-code-highlighter", "prism", "maxiang"],
     "collapsible_menu":true,
     "level_number":false,
     "links": {
