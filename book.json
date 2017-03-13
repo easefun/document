@@ -1,10 +1,8 @@
 {
     "variables": {
-        "title": "开发者中心",
-        "theme": "theme-gray",
-        "copyright": "Copyright 2017 polyv.net"
+        "title": "开发者中心
     },
-	"plugins": ["-highlight", "-code-highlighter", "prism"],
+	"plugins": ["-highlight", "-code-highlighter", "prism", "maxiang"],
     "collapsible_menu":true,
     "level_number":false,
     "links": {
