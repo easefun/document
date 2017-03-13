@@ -6,7 +6,7 @@
 
 * 点播API
 	* [删除视频的全部打点信息](vod/deleteallframe.md)
-	* 名词解释
+	* [名词解释](vod/deleteallframe.md)
 	* API概述,常见问题
 	* 返回错误提示
 	* API调用签名
